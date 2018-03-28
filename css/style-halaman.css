@@ -1,0 +1,61 @@
+@charset "utf-8";
+.clear{
+	clear:both;
+}
+body{
+	padding-top:90px;
+}
+
+#theme-header{
+	background-color:#313131;
+	color:#FFF !important;
+	font-weight:bold;
+}
+
+#soal-ulangan{
+	font-size:20px;
+}
+
+.nomer-soal{
+	margin:80px auto;
+	width:350px;
+}
+
+.number-soal{
+	border:2px solid #000;
+	float:left;
+	text-align:center;
+	width:30px;
+	height:30px;
+	line-height:30px;
+	margin:2px 2px;
+	cursor:pointer;
+}
+
+#waktu-sisa{
+	font-size:24px;
+	color:#fff;
+}
+
+.belum-jawab{
+	background-color:#C10000;
+}
+
+.sudah-jawab{
+	background-color:#009F00;
+}
+
+.number-selected{
+	border:2px solid #FF0;
+	font-weight:bold;
+	color:#fff;
+}
+
+#loading{
+	display:none;
+	width:30px;
+}
+
+
+/* CSS Document */
+

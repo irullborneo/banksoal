@@ -1,0 +1,76 @@
+@charset "utf-8";
+body{
+	padding-top:80px;
+}
+#nilai-soal{
+	font-size:36px;
+}
+
+#score{
+	font-size:92px;
+	font-weight:bold
+}
+.pemisah{
+	margin:40px 0;
+}
+
+.nilai-90{
+	color:#17FF17;
+}
+
+.nilai-80{
+	color:#00D700;
+}
+
+.nilai-70{
+	color:#007900;
+}
+
+.nilai-60{
+	color:#004800;
+}
+
+.nilai-50{
+	color:#FFA953;
+}
+
+.nilai-40{
+	color:#EC7600;
+}
+
+.nilai-30{
+	color:#FF3E3E;
+}
+
+.nilai-20{
+	color:#F00;
+}
+
+.nilai-lain{
+	color:#9F0000;
+}
+
+#nilai{
+	font-size:24px;
+	color:#000;
+	font-weight:bold;
+}
+
+#nilai-benar, #nilai-salah{
+	padding:10px;
+}
+
+#nilai-benar{
+	background-color:#06FF06
+}
+
+#nilai-salah{
+	background-color:#A40000;
+}
+
+#waktu-durasi{
+	font-size:36px;
+	margin-top:80px;
+}
+/* CSS Document */
+
